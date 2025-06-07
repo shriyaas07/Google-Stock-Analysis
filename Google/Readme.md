@@ -20,9 +20,6 @@ This project explores:
 🔗 **Check out the interactive Tableau Story:**  
 [Google Stock Analysis – Tableau Public](https://public.tableau.com/views/GoogleStockAnalysis_17493068185360/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-## 🖼️ Dashboard Snapshots
-
-Include a screenshot or GIF here to preview the story slides.
 
 ## 👩‍💻 About Me
 
